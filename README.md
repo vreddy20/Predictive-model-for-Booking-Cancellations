@@ -1,0 +1,7 @@
+# Predictive-model-for-Booking-Cancellations
+
+The project aims to develop a prediction model for booking cancellations in a large chain of international hotels. With the goal of addressing the challenge of insufficient occupancy and declining net revenue, the model will leverage historical data and seasonal demand patterns to accurately predict booking cancellations. By doing so, the hotel management can proactively respond to cancellations, optimize resource allocation, and implement dynamic pricing strategies based on demand fluctuations and the likelihood of cancellations. The model's performance will be evaluated based on its accuracy in predicting cancellations and minimizing false negatives. The project also considers the potential benefits of enhancing customer satisfaction, establishing overbooking standards, and ultimately increasing the hotels' net revenue. While acknowledging the value of including pricing data for a more comprehensive analysis, the project aims to provide valuable insights and actionable recommendations to support decision-making and operational efficiency in the hotel industry.
+
+Note: 
+ 1. The dataset used in the project is provided in the attached file named 'hotel_bookings.csv' 
+ 2. The attached Jupyter notebook file, 'Hotel Booking Cancellations.ipynb', contains the Python code utilized for this project. Additionally, the notebook includes markdown cells that provide explanations and considerations for each step of the Python script.
